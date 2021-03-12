@@ -23,7 +23,7 @@
     "@angular/router": "^6.0.0",
     "@brunoc/ngx-viacep": "^2.1.2",
     "core-js": "^2.5.4",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "primeicons": "^1.0.0",
     "primeng": "^7.0.3",
     "rxjs": "^6.0.0",
